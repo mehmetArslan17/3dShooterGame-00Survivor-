@@ -1,0 +1,4 @@
+repository "3dShooterGame(00Survivor)@MehmetArslan2Jump@cloud"
+  path "/"
+    br "/main"
+    co "/main"
